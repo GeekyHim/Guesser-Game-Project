@@ -4,50 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Number Guesser Game Review</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f4f4f4;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 800px;
-      margin: 20px auto;
-      background: #fff;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
-    h1 {
-      color: #333;
-      text-align: center;
-      margin-bottom: 20px;
-    }
-    h2 {
-      color: #555;
-      margin-top: 20px;
-      margin-bottom: 10px;
-    }
-    p, ul {
-      color: #666;
-    }
-    ul {
-      list-style-type: disc;
-      margin: 10px 0 10px 20px;
-    }
-    strong {
-      color: #000;
-    }
-    code {
-      background: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-family: "Courier New", Courier, monospace;
-      color: #d6336c;
-    }
-  </style>
 </head>
 <body>
   <div class="container">
